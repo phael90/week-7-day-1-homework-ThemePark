@@ -9,8 +9,10 @@ public class VisitorTest {
 
     @Before
     public void before(){
-        visitor = new Visitor(20, 180, 200.00);
+        visitor = new Visitor("Donald",20, 180, 200.00);
     }
+    @Test
+    public void hasName() { assertEquals("Donald", visitor.getName());}
 
     @Test
     public void hasAge(){
