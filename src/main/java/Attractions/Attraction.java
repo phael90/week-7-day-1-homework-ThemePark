@@ -4,7 +4,7 @@ public abstract class Attraction {
     private String name;
     private int rating;
 
-    public Attraction(String name, int rating) {
+    public Attraction(String name) {
         this.name = name;
         this.rating = 0;
     }
@@ -12,4 +12,6 @@ public abstract class Attraction {
     public String getName() {
         return this.name;
     }
+
+
 }
