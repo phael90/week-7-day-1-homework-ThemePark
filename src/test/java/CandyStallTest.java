@@ -26,4 +26,9 @@ public class CandyStallTest {
     public void hasParkingSpot(){
         assertEquals(2, candyFloss.getParkingSpot());
     }
+
+    @Test
+    public  void hasDefaultPrice() {
+        assertEquals(4.20, candyFloss.defaultPrice());
+    }
 }
