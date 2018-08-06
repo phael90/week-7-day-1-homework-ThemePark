@@ -20,6 +20,6 @@ public class Visitor {
     }
 
     public double getMoney(){
-        return this.height;
+        return this.money;
     }
 }

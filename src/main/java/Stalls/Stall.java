@@ -17,7 +17,7 @@ public abstract class Stall {
         return this.name;
     }
 
-    public String getownerName(){
+    public String getOwnerName(){
         return this.ownerName;
     }
 

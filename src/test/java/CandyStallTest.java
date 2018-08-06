@@ -8,7 +8,7 @@ public class CandyStallTest {
     CandyFloss candyFloss;
 
     @Before
-    public void before(String name, String ownerName, int parkingSpot){
+    public void before(){
         candyFloss = new CandyFloss("CandyLand", "Digory", 2);
     }
 
@@ -19,7 +19,7 @@ public class CandyStallTest {
 
     @Test
     public void hasOwnerName() {
-        assertEquals("Digory", candyFloss.getName());
+        assertEquals("Digory", candyFloss.getOwnerName());
     }
 
     @Test
