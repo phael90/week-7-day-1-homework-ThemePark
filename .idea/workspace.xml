@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9fd44c7-a4e9-436c-84a8-d4ad9d1231e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stalls/CandyFloss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stalls/IceCreamStall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stalls/Stall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stalls/TobaccoStall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CandyStallTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/IceCreamStallTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stalls/CandyFloss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stalls/CandyFloss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CandyStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CandyStallTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -46,12 +39,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2183" />
+          <entry key="java" value="2456" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2183" />
+          <entry key="JAVA" value="2456" />
         </counts>
       </usages-collector>
     </session>
@@ -60,11 +53,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.42600575">
       <split-first>
         <leaf>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/Stall.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="468">
-                  <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+                <state relative-caret-position="162">
+                  <caret line="8" column="63" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="63" />
                   <folding>
                     <element signature="e#347#348#0" expanded="true" />
                     <element signature="e#379#380#0" expanded="true" />
@@ -86,11 +79,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/CandyFloss.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="126">
-                  <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+                  <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
                   <folding>
                     <element signature="e#125#126#0" expanded="true" />
                     <element signature="e#176#177#0" expanded="true" />
@@ -103,7 +96,7 @@
             <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/TobaccoStall.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="54">
-                  <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+                  <caret line="3" selection-start-line="3" selection-end-line="3" />
                 </state>
               </provider>
             </entry>
@@ -112,11 +105,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/IceCreamStallTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="504">
-                  <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+                <state relative-caret-position="216">
+                  <caret line="11" column="69" lean-forward="true" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#341#342#0" expanded="true" />
@@ -130,11 +123,20 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/CandyStallTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="27" selection-start-column="27" selection-end-column="27" />
+                <state relative-caret-position="504">
+                  <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#330#331#0" expanded="true" />
+                    <element signature="e#357#358#0" expanded="true" />
+                    <element signature="e#487#488#0" expanded="true" />
+                    <element signature="e#547#548#0" expanded="true" />
+                    <element signature="e#592#593#0" expanded="true" />
+                    <element signature="e#622#623#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -470,10 +472,11 @@
         <option value="$PROJECT_DIR$/src/main/java/Visitors/Visitor.java" />
         <option value="$PROJECT_DIR$/src/test/java/DodgemsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Stalls/IceCreamStall.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Stalls/CandyFloss.java" />
         <option value="$PROJECT_DIR$/src/main/java/Stalls/TobaccoStall.java" />
         <option value="$PROJECT_DIR$/src/main/java/Stalls/Stall.java" />
         <option value="$PROJECT_DIR$/src/test/java/IceCreamStallTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Stalls/CandyFloss.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CandyStallTest.java" />
       </list>
     </option>
   </component>
@@ -546,7 +549,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533586809237" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533587846000" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -618,6 +621,9 @@
     <history-entry file="VisitorTest_hasAge - 2018.08.06 at 21h 07m 42s.xml">
       <configuration name="VisitorTest.hasAge" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="VisitorTest_hasAge - 2018.08.06 at 21h 37m 27s.xml">
+      <configuration name="VisitorTest.hasAge" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -628,10 +634,10 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15018316" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15018316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" weight="0.32959184" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.26020408" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.26020408" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.32959184" />
       <window_info anchor="bottom" id="Messages" />
@@ -782,49 +788,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CandyStallTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TobaccoStallTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/TobaccoStall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/CandyFloss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/IceCreamStall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="4" column="71" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/Stall.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="162">
+          <caret line="8" column="63" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="63" />
           <folding>
             <element signature="e#347#348#0" expanded="true" />
             <element signature="e#379#380#0" expanded="true" />
@@ -836,10 +803,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TobaccoStallTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/IceCreamStall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="4" column="71" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/TobaccoStall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/IceCreamStallTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="216">
+          <caret line="11" column="69" lean-forward="true" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#341#342#0" expanded="true" />
@@ -848,6 +836,33 @@
             <element signature="e#544#545#0" expanded="true" />
             <element signature="e#632#633#0" expanded="true" />
             <element signature="e#662#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Stalls/CandyFloss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CandyStallTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
           </folding>
         </state>
       </provider>
