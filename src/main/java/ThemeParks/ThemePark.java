@@ -16,6 +16,6 @@ public class ThemePark {
     }
 
     public String visit(Visitor visitor, Attraction attraction){
-        return visitor + " visited " + attraction;
+        return visitor.getName() + " visited " + attraction.getName();
     }
 }
