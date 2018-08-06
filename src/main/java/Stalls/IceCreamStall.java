@@ -6,4 +6,5 @@ public class IceCreamStall extends Stall{
     super(name, ownerName, parkingSpot);
 
     }
+
 }
