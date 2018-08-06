@@ -29,7 +29,7 @@ public class IceCreamStallTest {
 
     @Test
     public  void hasDefaultPrice() {
-        assertEquals(2.80, iceCreamStall.defaultPrice());
+        assertEquals(2.80, iceCreamStall.defaultPrice(),2);
     }
 
 
