@@ -18,6 +18,12 @@ public class VisitorTest {
     }
 
     @Test
-    public void
+    public void hasHeight(){
+        assertEquals(180, visitor.getHeight());
+    }
 
+    @Test
+    public void hadMoney(){
+        assertEquals(200.00, visitor.getMoney(),2);
+    }
 }
