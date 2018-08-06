@@ -17,5 +17,9 @@ public class Rollercoster extends Attraction implements ISecurity {
             return false;
         }
     }
+    public double defaultPrice(){
+        return 8.40;
+    }
+
 
 }
