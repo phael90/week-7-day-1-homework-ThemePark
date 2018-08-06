@@ -15,4 +15,9 @@ public class DodgemsTest {
     public void hasName() {
         assertEquals("Crash", dodgems.getName());
     }
+
+    @Test
+    public  void hasDefaultPrice() {
+        assertEquals(4.50, dodgems.defaultPrice());
+    }
 }
