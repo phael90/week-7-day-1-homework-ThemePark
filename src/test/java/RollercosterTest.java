@@ -24,4 +24,10 @@ public class RollercosterTest {
     public void isAllowed() {
         assertEquals(true, rollercoster.isAllowedTo(visitor));
     }
+
+    @Test
+    public  void hasDefaultPrice() {
+        assertEquals(8.40, rollercoster.defaultPrice());
+    }
+
 }

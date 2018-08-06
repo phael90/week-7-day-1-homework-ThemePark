@@ -1,8 +1,10 @@
 package Attractions;
 
+import Interfaces.ISecurity;
+import Interfaces.ITicketed;
 import Visitors.Visitor;
 
-public class Rollercoster extends Attraction{
+public class Rollercoster extends Attraction implements ISecurity {
 
     public Rollercoster(String name){
         super(name);
@@ -15,4 +17,5 @@ public class Rollercoster extends Attraction{
             return false;
         }
     }
+
 }

@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c9fd44c7-a4e9-436c-84a8-d4ad9d1231e0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/RollercosterTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Attractions/Rollercoster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Attractions/Rollercoster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Interfaces/ITicketed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interfaces/ITicketed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RollercosterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RollercosterTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -30,28 +31,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="85" />
+          <entry key="java" value="86" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="85" />
+          <entry key="JAVA" value="86" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4097" />
+          <entry key="java" value="4210" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4097" />
+          <entry key="JAVA" value="4210" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.1">
+    <splitter split-orientation="horizontal" split-proportion="0.31321838">
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="false">
@@ -63,19 +64,19 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/ITicketed.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="162">
-                  <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+                <state relative-caret-position="144">
+                  <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="44" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/IReviewed.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="234">
+                <state relative-caret-position="72">
                   <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
                 </state>
               </provider>
@@ -84,13 +85,13 @@
         </leaf>
       </split-first>
       <split-second>
-        <splitter split-orientation="horizontal" split-proportion="0.6485623">
+        <splitter split-orientation="horizontal" split-proportion="0.5295454">
           <split-first>
             <leaf>
               <file pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Playground.java">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="324">
+                    <state relative-caret-position="306">
                       <caret line="17" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
                       <folding>
                         <element signature="imports" expanded="true" />
@@ -104,12 +105,22 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Rollercoster.java">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="288">
-                      <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+                    <state relative-caret-position="432">
+                      <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
                       <folding>
+                        <element signature="imports" expanded="true" />
                         <element signature="e#105#106#0" expanded="true" />
                         <element signature="e#132#133#0" expanded="true" />
                       </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Dodgems.java">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="72">
+                      <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
                     </state>
                   </provider>
                 </entry>
@@ -121,42 +132,14 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/src/test/java/RollercosterTest.java">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="520">
-                      <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+                    <state relative-caret-position="630">
+                      <caret line="29" column="53" lean-forward="true" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
                       <folding>
                         <element signature="imports" expanded="true" />
                         <element signature="e#533#534#0" expanded="true" />
                         <element signature="e#563#564#0" expanded="true" />
-                      </folding>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/src/test/java/TobaccoStallTest.java">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="516">
-                      <caret line="34" column="52" lean-forward="true" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
-                      <folding>
-                        <element signature="imports" expanded="true" />
-                        <element signature="e#556#557#0" expanded="true" />
-                        <element signature="e#618#619#0" expanded="true" />
-                        <element signature="e#761#762#0" expanded="true" />
-                        <element signature="e#791#792#0" expanded="true" />
-                      </folding>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/src/test/java/VisitorTest.java">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="234">
-                      <caret line="11" column="56" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="56" />
-                      <folding>
-                        <element signature="imports" expanded="true" />
-                        <element signature="e#205#206#0" expanded="true" />
-                        <element signature="e#268#269#0" expanded="true" />
+                        <element signature="e#646#647#0" expanded="true" />
+                        <element signature="e#703#704#0" expanded="true" />
                       </folding>
                     </state>
                   </provider>
@@ -490,14 +473,14 @@
         <option value="$PROJECT_DIR$/src/main/java/Attractions/Attraction.java" />
         <option value="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interfaces/IReviewed.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Interfaces/ITicketed.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interfaces/ISecurity.java" />
         <option value="$PROJECT_DIR$/src/main/java/Attractions/Playground.java" />
         <option value="$PROJECT_DIR$/src/test/java/PlaygroundTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Stalls/TobaccoStall.java" />
-        <option value="$PROJECT_DIR$/src/test/java/RollercosterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/ITicketed.java" />
         <option value="$PROJECT_DIR$/src/main/java/Attractions/Rollercoster.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RollercosterTest.java" />
       </list>
     </option>
   </component>
@@ -570,7 +553,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533594063010" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533594538477" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -645,9 +628,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_ThemePark_test - 2018.08.06 at 21h 58m 17s.xml">
-      <configuration name="All in ThemePark_test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_ThemePark_test - 2018.08.06 at 21h 58m 43s.xml">
       <configuration name="All in ThemePark_test" configurationId="JUnit" />
     </history-entry>
@@ -675,6 +655,9 @@
     <history-entry file="ThemeParkTest_canVisitorVisitAttraction - 2018.08.06 at 23h 15m 34s.xml">
       <configuration name="ThemeParkTest.canVisitorVisitAttraction" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ThemeParkTest_canVisitorVisitAttraction - 2018.08.06 at 23h 21m 46s.xml">
+      <configuration name="ThemeParkTest.canVisitorVisitAttraction" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -685,12 +668,12 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.15018316" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.15018316" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.26020408" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.26020408" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="2" weight="0.32959184" />
-      <window_info active="true" anchor="bottom" id="Messages" order="3" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32959184" />
       <window_info anchor="bottom" id="Version Control" order="4" weight="0.32959184" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
@@ -798,13 +781,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Dodgems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ThemeParks/ThemePark.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -861,13 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/ITicketed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PlaygroundTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -891,7 +860,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/IReviewed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
+        <state relative-caret-position="72">
           <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
@@ -933,21 +902,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RollercosterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Playground.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
+        <state relative-caret-position="306">
           <caret line="17" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -957,11 +914,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/ITicketed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Dodgems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RollercosterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="29" column="53" lean-forward="true" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Rollercoster.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        <state relative-caret-position="432">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#105#106#0" expanded="true" />
             <element signature="e#132#133#0" expanded="true" />
           </folding>
